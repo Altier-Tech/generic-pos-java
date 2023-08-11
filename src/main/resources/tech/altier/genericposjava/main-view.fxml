@@ -3,7 +3,7 @@
 <?import javafx.scene.layout.BorderPane?>
 
 <BorderPane xmlns:fx="http://javafx.com/fxml"
-            fx:controller="tech.altier.genericposjava.HelloController">
+            fx:controller="tech.altier.genericposjava.MainController">
 
 
 

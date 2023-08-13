@@ -3,15 +3,15 @@
 <!-- This is the main UI of a point of sale system -->
 
 <?import javafx.scene.layout.BorderPane?>
-
 <?import javafx.scene.layout.VBox?>
+
 <BorderPane xmlns:fx="http://javafx.com/fxml"
             fx:controller="tech.altier.genericposjava.MainController">
 
     <center> <!-- List of items / cart -->
 
         <VBox spacing="10" BorderPane.alignment="CENTER" >
-
+            
         </VBox>
 
     </center>

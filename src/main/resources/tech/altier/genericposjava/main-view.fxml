@@ -11,7 +11,7 @@
     <center> <!-- List of items / cart -->
 
         <VBox spacing="10" BorderPane.alignment="CENTER" >
-            
+
         </VBox>
 
     </center>

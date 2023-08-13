@@ -16,4 +16,14 @@
 
     </center>
 
+    <bottom> <!-- Total / payment -->
+
+        <VBox spacing="10" BorderPane.alignment="CENTER" >
+
+        </VBox>
+
+    </bottom>
+
+    
+
 </BorderPane>

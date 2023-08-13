@@ -5,6 +5,7 @@
 <?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.layout.VBox?>
 
+<?import javafx.scene.layout.TilePane?>
 <BorderPane xmlns:fx="http://javafx.com/fxml"
             fx:controller="tech.altier.genericposjava.MainController">
 
@@ -26,9 +27,9 @@
 
     <bottom> <!-- Buttons -->
 
-        <VBox spacing="10" BorderPane.alignment="CENTER" >
+        <TilePane>
 
-        </VBox>
+        </TilePane>
 
     </bottom>
 
